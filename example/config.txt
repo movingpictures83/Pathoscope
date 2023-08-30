@@ -1,0 +1,2 @@
+Prefix plugins/Pathoscope/example/
+Plugin Pathoscope inputfile parameters.txt outputfile .
